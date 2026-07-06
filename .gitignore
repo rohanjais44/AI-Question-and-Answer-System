@@ -1,0 +1,32 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+backend/.pytest_cache/
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# Node
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache
+*.py[cod]
+*.egg-info/
+
+# Build folders
+dist/
+build/
